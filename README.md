@@ -1,4 +1,5 @@
 # Purpose
+### Inspired by https://12factor.net/dev-prod-parity
 
 - A pre-configured Developer environment to help organizations to deliver software faster with greater quality & security.
 
