@@ -9,4 +9,5 @@
 - The developers and QE personnel spend over 20% of their time configuring the stack, figuring how to use the tools, infra availability etc
 
 - The aim of this product is to help alleviate aforesaid challenges with less time and minimally skilled personnel
+##### This is an Infrastructure-as-Code Project
 ### Happy Coding and Thanks in advance for contributing
