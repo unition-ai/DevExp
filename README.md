@@ -1,4 +1,4 @@
-# Overview
+# Purpose
 
 - A pre-configured Developer environment to help organizations to deliver software faster with greater quality & security.
 
@@ -11,3 +11,4 @@
 - The aim of this product is to help alleviate aforesaid challenges with less time and minimally skilled personnel
 ##### This is an Infrastructure-as-Code Project
 ### Happy Coding and Thanks in advance for contributing
+
